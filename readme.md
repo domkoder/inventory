@@ -37,4 +37,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
+##find . -type f -name '*.php' -exec php -l {} \; |grep -v "No syntax errors detected".
+
+## ./lint.sh .
+
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
