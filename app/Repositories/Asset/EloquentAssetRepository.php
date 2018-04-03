@@ -8,9 +8,9 @@
 	use App\Service;
 	use App\Office;
 	use App\Issue;
-	Use App\User;
+	use App\User;
 	use Auth;
-	Use App\Role;
+	use App\Role;
 
 	/**
 	* 
